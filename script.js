@@ -1,3 +1,3 @@
-import { sayHi } from './sayHi.js';
+import { sayHi, user } from './sayHi.js';
 console.log('main script executed !');
-sayHi('John'); // Hello, John!
+sayHi(user); // Hello, John!

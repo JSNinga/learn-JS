@@ -1,3 +1,3 @@
-# learn-JS
+link https://javascript.info/modules-intro
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-gtd48d)
+this is an example of JS modules
